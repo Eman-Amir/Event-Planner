@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0061A4</color>
+    <color name="primary_dark">#001D36</color>
+    <color name="primary_light">#D1E4FF</color>
+    <color name="secondary">#535F70</color>
+    <color name="secondary_light">#DDE3EA</color>
+    <color name="accent">#0061A4</color>
+    <color name="accent_light">#D1E4FF</color>
+    
+    <!-- Base App Palette -->
+    <color name="background">#FDFBFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="nav_bar_bg">#F3F4F9</color>
+    <color name="card_bg">#F3F4F9</color>
+    <color name="text_primary">#1A1C1E</color>
+    <color name="text_secondary">#44474E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#E1E2E9</color>
+    
+    <!-- Categories Visual Accents -->
+    <color name="cat_conference">#EC4899</color> <!-- Pink -->
+    <color name="cat_social">#F59E0B</color>      <!-- Amber -->
+    <color name="cat_workshop">#0061A4</color>    <!-- Blue -->
+    <color name="cat_meeting">#3B82F6</color>     <!-- Light Blue -->
+    
+    <!-- Action Accents -->
+    <color name="color_danger">#BA1A1A</color>
+</resources>

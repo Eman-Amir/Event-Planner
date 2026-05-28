@@ -1,0 +1,6 @@
+{
+  "name": "Event Planner",
+  "description": "A clean, visually stunning Event Planner app built in Java, showcasing full RESTful API integrations for fetch, creation, update, and deletion of events (mocked locally using a robust OkHttp network interceptor that replicates actual REST endpoints).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

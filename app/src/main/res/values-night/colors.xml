@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#A5C8FF</color>
+    <color name="primary_dark">#001D36</color>
+    <color name="primary_light">#00497E</color>
+    <color name="secondary">#BEC7DB</color>
+    <color name="secondary_light">#3B4858</color>
+    <color name="accent">#A5C8FF</color>
+    <color name="accent_light">#00497E</color>
+    
+    <!-- Base App Palette - Dark Theme values -->
+    <color name="background">#1A1C1E</color>
+    <color name="surface">#2D3033</color>
+    <color name="nav_bar_bg">#25282B</color>
+    <color name="card_bg">#2D3033</color>
+    <color name="text_primary">#E2E2E6</color>
+    <color name="text_secondary">#C4C6D0</color>
+    <color name="white">#1A1C1E</color>
+    <color name="black">#FFFFFF</color>
+    <color name="gray_light">#43474E</color>
+    
+    <!-- Categories Visual Accents (slightly brighter for dark theme) -->
+    <color name="cat_conference">#F472B6</color> <!-- Light Pink -->
+    <color name="cat_social">#FBBF24</color>      <!-- Light Amber -->
+    <color name="cat_workshop">#60A5FA</color>    <!-- Light Blue -->
+    <color name="cat_meeting">#93C5FD</color>     <!-- Very Light Blue -->
+    
+    <!-- Action Accents -->
+    <color name="color_danger">#FFB4AB</color>
+</resources>

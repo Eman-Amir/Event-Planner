@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark/Night application theme. -->
+    <style name="Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        
+        <!-- Text color controls -->
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textColorHint">@color/text_secondary</item>
+        <item name="editTextColor">@color/text_primary</item>
+        
+        <!-- Status Bar Configuration -->
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m" xmlns:tools="http://schemas.android.com/tools">false</item>
+        
+        <!-- Window background -->
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>
